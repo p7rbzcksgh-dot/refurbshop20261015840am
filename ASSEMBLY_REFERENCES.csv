@@ -1,0 +1,61 @@
+Scanner,Assembly,Quantity,Description,Notes,Source
+SBX-002,SA080-OBS,1,PR3 static brush,"Components are counted on the order, not additional parent stock demand. ",static brush bom.pdf | BO00236 | p.1
+SBX-002,SA048_PR3-OBS,1,PR3 feed-fixer / headers,"Components are counted on the order, not additional parent stock demand. Nested parts appear once. Molded MFG0322 is a supplied component, not 3D printing. KIT001 identifier is not a blocker. User accepted provided PR3 BOM as replacement scope.",PR3 feed fixer bom.pdf | BO00116 | p.1-2
+SBX-002,SA043-OBS,1,PR3 mounting plates,"Components are counted on the order, not additional parent stock demand. ",sa043.pdf | BO00079 | p.1
+SBX-002,SA062,2,Upper diffuser,"Components are counted on the order, not additional parent stock demand. ",SA062.pdf | BO00158 | p.1
+SBX-002,SA060,1,Lower left diffuser,"Components are counted on the order, not additional parent stock demand. ",Sa060.pdf | BO00156 | p.1
+SBX-002,SA061,1,Lower right diffuser,"Components are counted on the order, not additional parent stock demand. ",sa061.pdf | BO00157 | p.1
+SBX-002,INASS011,1,Back-wall Taco Bar,"Components are counted on the order, not additional parent stock demand. ",inass011.pdf | BO00547 | p.1
+SBX-002,INASS013,1,Front-wall Taco Bar,"Components are counted on the order, not additional parent stock demand. ",inass013.pdf | BO00549 | p.1
+SBX-002,INASS029,1,MPC wiring bracket base,"Components are counted on the order, not additional parent stock demand. ",mpc bracket(1).pdf | BO00567 | p.1
+SBX-002,SA099,1,F100 foil detection module,"Components are counted on the order, not additional parent stock demand. ",sa099.pdf | BO00506 | p.1
+SBX-002,SA022,1,Upper belt-driven roller,"Components are counted on the order, not additional parent stock demand. ",SA022_indented.pdf | SA022 | p.1
+SBX-002,SA016,1,Lower gear-driven roller,"Components are counted on the order, not additional parent stock demand. ",s016.pdf | BO00005 | p.1
+SBX-002,SA098,2,Positioning belt shaft assembly,"Components are counted on the order, not additional parent stock demand. Craig final correction: each SA098 has one front shaft, one back shaft and TWO hubs. Two SA098 per work order. Foam remains 100 mm per assembly from the supplied BOM; clear belts, screw caps and FAS0181 are separate order lines.",sa098.pdf | BO00488 | p.1
+SBX-002,SA074,1,3A fuse assembly,"Components are counted on the order, not additional parent stock demand. ",sa074.pdf | BO00177 | p.1
+SBX-002,MFG0315-OBS,,L bracket,"Components are counted on the order, not additional parent stock demand. Bracket number confirmed. Enter the required bracket quantity to add one printed MFG0315-OBS and one FAS0101 plain M6 hex nut per bracket. Long thumbscrew part number remains unspecified.",Craig confirmation
+SBX-008,SA080-OBS,1,PR3 static brush,"Components are counted on the order, not additional parent stock demand. ",static brush bom.pdf | BO00236 | p.1
+SBX-008,SA048_PR3-OBS,1,PR3 feed-fixer / headers,"Components are counted on the order, not additional parent stock demand. Nested parts appear once. Molded MFG0322 is a supplied component, not 3D printing. KIT001 identifier is not a blocker. User accepted provided PR3 BOM as replacement scope.",PR3 feed fixer bom.pdf | BO00116 | p.1-2
+SBX-008,SA043-OBS,1,PR3 mounting plates,"Components are counted on the order, not additional parent stock demand. ",sa043.pdf | BO00079 | p.1
+SBX-008,SA062,2,Upper diffuser,"Components are counted on the order, not additional parent stock demand. ",SA062.pdf | BO00158 | p.1
+SBX-008,SA060,1,Lower left diffuser,"Components are counted on the order, not additional parent stock demand. ",Sa060.pdf | BO00156 | p.1
+SBX-008,SA061,1,Lower right diffuser,"Components are counted on the order, not additional parent stock demand. ",sa061.pdf | BO00157 | p.1
+SBX-008,INASS011,1,Back-wall Taco Bar,"Components are counted on the order, not additional parent stock demand. ",inass011.pdf | BO00547 | p.1
+SBX-008,INASS013,1,Front-wall Taco Bar,"Components are counted on the order, not additional parent stock demand. ",inass013.pdf | BO00549 | p.1
+SBX-008,INASS029,1,MPC wiring bracket base,"Components are counted on the order, not additional parent stock demand. ",mpc bracket(1).pdf | BO00567 | p.1
+SBX-008,SA099,1,F100 foil detection module,"Components are counted on the order, not additional parent stock demand. ",sa099.pdf | BO00506 | p.1
+SBX-008,SA022,1,Upper belt-driven roller,"Components are counted on the order, not additional parent stock demand. ",SA022_indented.pdf | SA022 | p.1
+SBX-008,SA016,1,Lower gear-driven roller,"Components are counted on the order, not additional parent stock demand. ",s016.pdf | BO00005 | p.1
+SBX-008,SA098,2,Positioning belt shaft assembly,"Components are counted on the order, not additional parent stock demand. Craig final correction: each SA098 has one front shaft, one back shaft and TWO hubs. Two SA098 per work order. Foam remains 100 mm per assembly from the supplied BOM; clear belts, screw caps and FAS0181 are separate order lines.",sa098.pdf | BO00488 | p.1
+SBX-008,SA074,1,3A fuse assembly,"Components are counted on the order, not additional parent stock demand. ",sa074.pdf | BO00177 | p.1
+SBX-008,MFG0315-OBS,,L bracket,"Components are counted on the order, not additional parent stock demand. Bracket number confirmed. Enter the required bracket quantity to add one printed MFG0315-OBS and one FAS0101 plain M6 hex nut per bracket. Long thumbscrew part number remains unspecified.",Craig confirmation
+SBX-018,SA080-OBS,1,PR3 static brush,"Components are counted on the order, not additional parent stock demand. ",static brush bom.pdf | BO00236 | p.1
+SBX-018,SA048_PR3-OBS,1,PR3 feed-fixer / headers,"Components are counted on the order, not additional parent stock demand. Nested parts appear once. Molded MFG0322 is a supplied component, not 3D printing. KIT001 identifier is not a blocker. User accepted provided PR3 BOM as replacement scope.",PR3 feed fixer bom.pdf | BO00116 | p.1-2
+SBX-018,SA043-OBS,1,PR3 mounting plates,"Components are counted on the order, not additional parent stock demand. ",sa043.pdf | BO00079 | p.1
+SBX-018,SA062,2,Upper diffuser,"Components are counted on the order, not additional parent stock demand. ",SA062.pdf | BO00158 | p.1
+SBX-018,SA060,1,Lower left diffuser,"Components are counted on the order, not additional parent stock demand. ",Sa060.pdf | BO00156 | p.1
+SBX-018,SA061,1,Lower right diffuser,"Components are counted on the order, not additional parent stock demand. ",sa061.pdf | BO00157 | p.1
+SBX-018,INASS011,1,Back-wall Taco Bar,"Components are counted on the order, not additional parent stock demand. ",inass011.pdf | BO00547 | p.1
+SBX-018,INASS013,1,Front-wall Taco Bar,"Components are counted on the order, not additional parent stock demand. ",inass013.pdf | BO00549 | p.1
+SBX-018,INASS029,1,MPC wiring bracket base,"Components are counted on the order, not additional parent stock demand. ",mpc bracket(1).pdf | BO00567 | p.1
+SBX-018,SA099,1,F100 foil detection module,"Components are counted on the order, not additional parent stock demand. ",sa099.pdf | BO00506 | p.1
+SBX-018,SA022,1,Upper belt-driven roller,"Components are counted on the order, not additional parent stock demand. ",SA022_indented.pdf | SA022 | p.1
+SBX-018,SA016,1,Lower gear-driven roller,"Components are counted on the order, not additional parent stock demand. ",s016.pdf | BO00005 | p.1
+SBX-018,SA098,2,Positioning belt shaft assembly,"Components are counted on the order, not additional parent stock demand. Craig final correction: each SA098 has one front shaft, one back shaft and TWO hubs. Two SA098 per work order. Foam remains 100 mm per assembly from the supplied BOM; clear belts, screw caps and FAS0181 are separate order lines.",sa098.pdf | BO00488 | p.1
+SBX-018,SSA013,1,Camera bracket with foil LEDs,"Components are counted on the order, not additional parent stock demand. ",ssa013.pdf | BO00550 | p.1
+SBX-018,MFG0315-OBS,,L bracket,"Components are counted on the order, not additional parent stock demand. Bracket number confirmed. Enter the required bracket quantity to add one printed MFG0315-OBS and one FAS0101 plain M6 hex nut per bracket. Long thumbscrew part number remains unspecified.",Craig confirmation
+SBX-029,SA080-OBS,1,PR3 static brush,"Components are counted on the order, not additional parent stock demand. ",static brush bom.pdf | BO00236 | p.1
+SBX-029,SA048_PR3-OBS,1,PR3 feed-fixer / headers,"Components are counted on the order, not additional parent stock demand. Nested parts appear once. Molded MFG0322 is a supplied component, not 3D printing. KIT001 identifier is not a blocker. User accepted provided PR3 BOM as replacement scope.",PR3 feed fixer bom.pdf | BO00116 | p.1-2
+SBX-029,SA043-OBS,1,PR3 mounting plates,"Components are counted on the order, not additional parent stock demand. ",sa043.pdf | BO00079 | p.1
+SBX-029,SA062,2,Upper diffuser,"Components are counted on the order, not additional parent stock demand. ",SA062.pdf | BO00158 | p.1
+SBX-029,SA060,1,Lower left diffuser,"Components are counted on the order, not additional parent stock demand. ",Sa060.pdf | BO00156 | p.1
+SBX-029,SA061,1,Lower right diffuser,"Components are counted on the order, not additional parent stock demand. ",sa061.pdf | BO00157 | p.1
+SBX-029,INASS011,1,Back-wall Taco Bar,"Components are counted on the order, not additional parent stock demand. ",inass011.pdf | BO00547 | p.1
+SBX-029,INASS013,1,Front-wall Taco Bar,"Components are counted on the order, not additional parent stock demand. ",inass013.pdf | BO00549 | p.1
+SBX-029,INASS029,1,MPC wiring bracket base,"Components are counted on the order, not additional parent stock demand. ",mpc bracket(1).pdf | BO00567 | p.1
+SBX-029,SA099,1,F100 foil detection module,"Components are counted on the order, not additional parent stock demand. ",sa099.pdf | BO00506 | p.1
+SBX-029,SA022,1,Upper belt-driven roller,"Components are counted on the order, not additional parent stock demand. ",SA022_indented.pdf | SA022 | p.1
+SBX-029,SA016,1,Lower gear-driven roller,"Components are counted on the order, not additional parent stock demand. ",s016.pdf | BO00005 | p.1
+SBX-029,SA098,2,Positioning belt shaft assembly,"Components are counted on the order, not additional parent stock demand. Craig final correction: each SA098 has one front shaft, one back shaft and TWO hubs. Two SA098 per work order. Foam remains 100 mm per assembly from the supplied BOM; clear belts, screw caps and FAS0181 are separate order lines.",sa098.pdf | BO00488 | p.1
+SBX-029,SSA013,1,Camera bracket with foil LEDs,"Components are counted on the order, not additional parent stock demand. ",ssa013.pdf | BO00550 | p.1
+SBX-029,MFG0315-OBS,,L bracket,"Components are counted on the order, not additional parent stock demand. Bracket number confirmed. Enter the required bracket quantity to add one printed MFG0315-OBS and one FAS0101 plain M6 hex nut per bracket. Long thumbscrew part number remains unspecified.",Craig confirmation

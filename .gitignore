@@ -1,0 +1,9 @@
+node_modules/
+data.json
+data.json.tmp
+*.log
+.DS_Store
+
+# Runtime data and backups must not be committed.
+.refurb-backups/
+data.json.*

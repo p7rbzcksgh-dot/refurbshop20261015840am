@@ -1,0 +1,15 @@
+{
+  "name": "tcg-refurb-shop",
+  "version": "2.5.0",
+  "description": "TCG Refurb Shop \u2014 inventory, manufacturing orders, editable part requirements and print requests.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test *.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}

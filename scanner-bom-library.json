@@ -1,0 +1,869 @@
+{
+  "SSA013": {
+    "description": "Camera bracket with foil LEDs",
+    "sourceFile": "ssa013.pdf",
+    "bomNumber": "BO00550",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "CAB0009",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0325",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 11.06
+          }
+        ]
+      }
+    ]
+  },
+  "SA074": {
+    "description": "3A fuse assembly",
+    "sourceFile": "sa074.pdf",
+    "bomNumber": "BO00177",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "CAB0023",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0235",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 2.13
+          }
+        ]
+      },
+      {
+        "pn": "MFG0234",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 2.942
+          }
+        ]
+      },
+      {
+        "pn": "FAS0172",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "OTS0140",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      }
+    ]
+  },
+  "SA098": {
+    "description": "Positioning belt shaft assembly",
+    "sourceFile": "sa098.pdf",
+    "bomNumber": "BO00488",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0478",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0479",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0480",
+        "qty": 2,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 2.95
+          }
+        ]
+      },
+      {
+        "pn": "OTS0119",
+        "qty": 100,
+        "printable": false,
+        "uom": "mm"
+      }
+    ],
+    "override": "Craig final correction: each SA098 has one front shaft, one back shaft and TWO hubs. Two SA098 per work order. Foam remains 100 mm per assembly from the supplied BOM; clear belts, screw caps and FAS0181 are separate order lines.",
+    "rawChildren": [
+      {
+        "pn": "MFG0478",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0479",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0480",
+        "qty": 3,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 2.95
+          }
+        ]
+      },
+      {
+        "pn": "OTS0119",
+        "qty": 100,
+        "printable": false,
+        "uom": "mm"
+      }
+    ]
+  },
+  "SA016": {
+    "description": "Lower gear-driven roller",
+    "sourceFile": "s016.pdf",
+    "bomNumber": "BO00005",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0053",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "OTS0042",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      }
+    ]
+  },
+  "SA022": {
+    "description": "Upper belt-driven roller",
+    "sourceFile": "SA022_indented.pdf",
+    "bomNumber": "SA022",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0084",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "OTS0042",
+        "qty": 3,
+        "printable": false,
+        "uom": "EA"
+      }
+    ]
+  },
+  "INASS013": {
+    "description": "Front-wall Taco Bar",
+    "sourceFile": "inass013.pdf",
+    "bomNumber": "BO00549",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0477",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 10.14
+          }
+        ]
+      },
+      {
+        "pn": "FAS0098",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      }
+    ]
+  },
+  "INASS011": {
+    "description": "Back-wall Taco Bar",
+    "sourceFile": "inass011.pdf",
+    "bomNumber": "BO00547",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "FAS0098",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0476",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 9.09
+          }
+        ]
+      }
+    ]
+  },
+  "SA043-OBS": {
+    "description": "PR3 mounting plates",
+    "sourceFile": "sa043.pdf",
+    "bomNumber": "BO00079",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0299-OBS",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 9.43
+          }
+        ]
+      },
+      {
+        "pn": "MFG0301-OBS",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 23.56
+          }
+        ]
+      },
+      {
+        "pn": "FAS0093",
+        "qty": 3,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0098",
+        "qty": 4,
+        "printable": false,
+        "uom": "EA"
+      }
+    ]
+  },
+  "SA099": {
+    "description": "F100 foil detection module",
+    "sourceFile": "sa099.pdf",
+    "bomNumber": "BO00506",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0483",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0484",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0491",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 23.55
+          }
+        ]
+      },
+      {
+        "pn": "MFG0490",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 44.24
+          }
+        ]
+      },
+      {
+        "pn": "MFG0494",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 2.15
+          },
+          {
+            "pn": "A00800",
+            "description": "PLA Orange",
+            "gramsEach": 1.55
+          }
+        ]
+      },
+      {
+        "pn": "MFG0495",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 1.54
+          }
+        ]
+      },
+      {
+        "pn": "FAS0044",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0182",
+        "qty": 4,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0184",
+        "qty": 4,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0173",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "OTS0206",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0110",
+        "qty": 4,
+        "printable": false,
+        "uom": "EA"
+      }
+    ]
+  },
+  "SA061": {
+    "description": "Lower right diffuser",
+    "sourceFile": "sa061.pdf",
+    "bomNumber": "BO00157",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0401",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 31.26
+          }
+        ]
+      },
+      {
+        "pn": "MFG0417",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 1.15
+          }
+        ]
+      },
+      {
+        "pn": "MFG0015",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0010",
+        "qty": 3,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0169",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      }
+    ]
+  },
+  "SA060": {
+    "description": "Lower left diffuser",
+    "sourceFile": "Sa060.pdf",
+    "bomNumber": "BO00156",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0400",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 31.15
+          }
+        ]
+      },
+      {
+        "pn": "MFG0417",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 1.15
+          }
+        ]
+      },
+      {
+        "pn": "MFG0015",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0010",
+        "qty": 3,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0169",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      }
+    ]
+  },
+  "SA062": {
+    "description": "Upper diffuser",
+    "sourceFile": "SA062.pdf",
+    "bomNumber": "BO00158",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0340",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0169",
+        "qty": 8,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0405",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 5.091
+          }
+        ]
+      },
+      {
+        "pn": "MFG0404",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 24.048
+          }
+        ]
+      },
+      {
+        "pn": "MFG0359",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 18
+          },
+          {
+            "pn": "A01032",
+            "description": "PLA Green",
+            "gramsEach": 0.7
+          }
+        ]
+      },
+      {
+        "pn": "MFG0416",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 0.586
+          }
+        ]
+      }
+    ]
+  },
+  "INASS029": {
+    "description": "MPC wiring bracket base",
+    "sourceFile": "mpc bracket(1).pdf",
+    "bomNumber": "BO00567",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0305",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 7.21
+          }
+        ]
+      },
+      {
+        "pn": "FAS0098",
+        "qty": 4,
+        "printable": false,
+        "uom": "EA"
+      }
+    ]
+  },
+  "SA080-OBS": {
+    "description": "PR3 static brush",
+    "sourceFile": "static brush bom.pdf",
+    "bomNumber": "BO00236",
+    "sourcePages": "1",
+    "children": [
+      {
+        "pn": "MFG0446-OBS",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 8.93
+          }
+        ]
+      },
+      {
+        "pn": "MFG0447-OBS",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 5.55
+          }
+        ]
+      },
+      {
+        "pn": "CAB0024",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "OTS0161",
+        "qty": 75,
+        "printable": false,
+        "uom": "mm"
+      },
+      {
+        "pn": "FAS0167",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      }
+    ]
+  },
+  "SA048_PR3-OBS": {
+    "description": "PR3 feed-fixer / headers",
+    "sourceFile": "PR3 feed fixer bom.pdf",
+    "bomNumber": "BO00116",
+    "sourcePages": "1-2",
+    "children": [
+      {
+        "pn": "OBS-FAS0045",
+        "qty": 4,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0304",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 7.08
+          }
+        ]
+      },
+      {
+        "pn": "MFG0295",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 2.657
+          }
+        ]
+      },
+      {
+        "pn": "FAS0112",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0085",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0316",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 2.51
+          }
+        ]
+      },
+      {
+        "pn": "FAS0052",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0112",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0172",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0064",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0125",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0169",
+        "qty": 4,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0296",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 18.96
+          }
+        ]
+      },
+      {
+        "pn": "FAS0098",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0298",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 11.74
+          }
+        ]
+      },
+      {
+        "pn": "MFG0297",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00798",
+            "description": "PLA Black",
+            "gramsEach": 18.86
+          }
+        ]
+      },
+      {
+        "pn": "MFG0322",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0083",
+        "qty": 1,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0113",
+        "qty": 2,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "FAS0167",
+        "qty": 4,
+        "printable": false,
+        "uom": "EA"
+      },
+      {
+        "pn": "MFG0312-OBS",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00801",
+            "description": "PLA Grey",
+            "gramsEach": 44.75
+          }
+        ]
+      },
+      {
+        "pn": "MFG0311-OBS",
+        "qty": 1,
+        "printable": true,
+        "uom": "EA",
+        "materials": [
+          {
+            "pn": "A00801",
+            "description": "PLA Grey",
+            "gramsEach": 43
+          }
+        ]
+      }
+    ],
+    "nestedParents": [
+      "SA045",
+      "SA047",
+      "INASS015"
+    ],
+    "note": "Nested parts appear once. Molded MFG0322 is a supplied component, not 3D printing. KIT001 identifier is not a blocker. User accepted provided PR3 BOM as replacement scope."
+  }
+}

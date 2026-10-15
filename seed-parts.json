@@ -1,0 +1,352 @@
+[
+ {
+  "pn": "MFG0176-OBS",
+  "desc": "PR3 Jack Screw Shelf, SA-030",
+  "gens": [
+   3
+  ],
+  "wt": 30.127,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0200-OBS",
+  "desc": "SB Housing Door Latch Spacer, PR3",
+  "gens": [
+   3
+  ],
+  "wt": null,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0212-OBS",
+  "desc": "PR3 Portal of Smoke and Mystery, SA-002",
+  "gens": [
+   3
+  ],
+  "wt": null,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0224-OBS",
+  "desc": "The Dream Catcher PR3, SA-003",
+  "gens": [
+   3
+  ],
+  "wt": 22.908,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0225-OBS",
+  "desc": "PR3 Dream Catcher Mount",
+  "gens": [
+   3
+  ],
+  "wt": 12.21,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0311-OBS",
+  "desc": "RHS Anti-Gate Header PR3",
+  "gens": [
+   3
+  ],
+  "wt": 43,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0312-OBS",
+  "desc": "LHS Anti-Gate Header PR3",
+  "gens": [
+   3
+  ],
+  "wt": 44.76,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0488-OBS",
+  "desc": "Tail Mount PR1-PR3",
+  "gens": [
+   3
+  ],
+  "wt": 103.03,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0451-OBS",
+  "desc": "Lower LED Mount PR1 to PR4 Adapter Plate",
+  "gens": [
+   3,
+   4
+  ],
+  "wt": 31.15,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0258-OBS",
+  "desc": "PR4 Mini PC Top Mount Plate, SA-011",
+  "gens": [
+   4
+  ],
+  "wt": 85.99,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0290-OBS",
+  "desc": "The Dream Catcher PR4",
+  "gens": [
+   4
+  ],
+  "wt": 28.942,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0313-OBS",
+  "desc": "PR4 LHS Gateless Header",
+  "gens": [
+   4
+  ],
+  "wt": 44.85,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0314-OBS",
+  "desc": "PR4 RHS Gateless Header",
+  "gens": [
+   4
+  ],
+  "wt": 42.98,
+  "qty": 1,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0328",
+  "desc": "PR4 Jack Screw Shelf",
+  "gens": [
+   4
+  ],
+  "wt": 31.56,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0278",
+  "desc": "PR4-6 Dream Catcher Mount, SA-003",
+  "gens": [
+   4,
+   5,
+   6
+  ],
+  "wt": 4.744,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0371",
+  "desc": "PR5 Mini PC Top Mount Plate (ABS)",
+  "gens": [
+   5
+  ],
+  "wt": 87.7,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0400",
+  "desc": "Lower LHS LED Mount, PR5",
+  "gens": [
+   5
+  ],
+  "wt": 31.15,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0401",
+  "desc": "Lower RHS LED Mount, PR5",
+  "gens": [
+   5
+  ],
+  "wt": 31.26,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0419",
+  "desc": "LHS Header - PR5",
+  "gens": [
+   5
+  ],
+  "wt": 59.15,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0420",
+  "desc": "RHS Header - PR5",
+  "gens": [
+   5
+  ],
+  "wt": 59.55,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0421",
+  "desc": "The Dream Catcher PR5",
+  "gens": [
+   5
+  ],
+  "wt": 27.75,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0438",
+  "desc": "Feed Wheel Dust Tray PR5",
+  "gens": [
+   5
+  ],
+  "wt": 12.1,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0440",
+  "desc": "Tail Kicker PR5",
+  "gens": [
+   5
+  ],
+  "wt": 17.78,
+  "qty": 3,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0443",
+  "desc": "Phat Tail - PR5",
+  "gens": [
+   5
+  ],
+  "wt": 33.05,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0448-OBS",
+  "desc": "Foot Stabilizer PR5",
+  "gens": [
+   5
+  ],
+  "wt": null,
+  "qty": 4,
+  "status": "OBS"
+ },
+ {
+  "pn": "MFG0439",
+  "desc": "Tail Mount PR5-PR6",
+  "gens": [
+   5,
+   6
+  ],
+  "wt": 103.03,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0456",
+  "desc": "M2 PR6 Motor Plate Spacer",
+  "gens": [
+   6
+  ],
+  "wt": null,
+  "qty": 2,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0466",
+  "desc": "Front Wall M6 Bolt Hole Plug - PR6",
+  "gens": [
+   6
+  ],
+  "wt": null,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0295",
+  "desc": "Adjustment Dial, FF-20000 (Feed Fixer kit)",
+  "gens": [
+   3,
+   4
+  ],
+  "wt": 2.657,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0296",
+  "desc": "Foot Mount, FF-20000 (Feed Fixer kit)",
+  "gens": [
+   3,
+   4
+  ],
+  "wt": 18.96,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0297",
+  "desc": "Middle Brace, FF-20000 (Feed Fixer kit)",
+  "gens": [
+   3,
+   4
+  ],
+  "wt": 18.86,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0298",
+  "desc": "Top Brace, FF-20000 (Feed Fixer kit)",
+  "gens": [
+   3,
+   4
+  ],
+  "wt": 11.74,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0304",
+  "desc": "Back Brace, FF-20000 (Feed Fixer kit)",
+  "gens": [
+   3,
+   4
+  ],
+  "wt": 7.08,
+  "qty": 1,
+  "status": "Active"
+ },
+ {
+  "pn": "MFG0316",
+  "desc": "Nut Retention Plate, FF-20000 (Feed Fixer kit)",
+  "gens": [
+   3,
+   4
+  ],
+  "wt": 2.51,
+  "qty": 1,
+  "status": "Active"
+ }
+]

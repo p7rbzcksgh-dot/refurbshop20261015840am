@@ -1,0 +1,546 @@
+{
+  "id": "craig-refurb-starters-2026-09-28-v1",
+  "title": "Craig's editable refurb starter list",
+  "date": "2026-09-28",
+  "numberedCount": 86,
+  "placeholderCount": 3,
+  "units": [
+    {
+      "serial": "SBX-002",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-008",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-018",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-029",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-030",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-035",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-043",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-048",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-049",
+      "unitType": "scanner",
+      "notes": "Handwritten group: Not Disassembled.",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-050",
+      "unitType": "scanner",
+      "notes": "Handwritten group: Not Disassembled.",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-056",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-063",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-066",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-067",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-092",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-102",
+      "unitType": "scanner",
+      "notes": "Handwritten group: Not Disassembled.",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-132",
+      "unitType": "scanner",
+      "notes": "Handwritten group: Not Disassembled.",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-150",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-151",
+      "unitType": "scanner",
+      "notes": "Handwritten group: Not Disassembled.",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-152",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-171",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-172",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-188",
+      "unitType": "scanner",
+      "notes": "Handwritten group: Not Disassembled.",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-197",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-201",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-252",
+      "unitType": "scanner",
+      "notes": "Handwritten group: Not Disassembled.",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-264",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-305",
+      "unitType": "scanner",
+      "notes": "Handwritten group: Not Disassembled.",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-340",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-345",
+      "unitType": "scanner",
+      "notes": "Handwritten group: Not Disassembled.\nHandwritten note: T.D. (meaning not confirmed).",
+      "needsReview": false
+    },
+    {
+      "serial": "SBX-350",
+      "unitType": "scanner",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-009",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-029",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-030",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-031",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-047",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-062",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-066",
+      "unitType": "conveyor",
+      "notes": "Handwritten note: ? / Not Sure. Confirm this serial number.",
+      "needsReview": true
+    },
+    {
+      "serial": "CNV-072",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-083",
+      "unitType": "conveyor",
+      "notes": "Handwritten entry: 083 (237?) B0/BO. Serial number and B0/BO notation need verification.",
+      "needsReview": true
+    },
+    {
+      "serial": "CNV-102",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-116",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-125",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-126",
+      "unitType": "conveyor",
+      "notes": "Handwritten note: B0/BO (notation not confirmed).",
+      "needsReview": true
+    },
+    {
+      "serial": "CNV-128",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-135",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-138",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-139",
+      "unitType": "conveyor",
+      "notes": "Handwritten note: B0/BO (notation not confirmed).",
+      "needsReview": true
+    },
+    {
+      "serial": "CNV-143",
+      "unitType": "conveyor",
+      "notes": "Handwritten note: B0/BO (notation not confirmed).",
+      "needsReview": true
+    },
+    {
+      "serial": "CNV-146",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-152",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-171",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-178",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-22-191",
+      "unitType": "conveyor",
+      "notes": "Written as CNV-22-191. Original serial format retained; not shortened to CNV-191.",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-196",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-229",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CNV-303",
+      "unitType": "conveyor",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-029",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-031",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-047",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-061",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-072",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-075",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-102",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-105",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-114",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-119",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-123",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-131",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-135",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-146",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-150",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-151",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-159",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-161",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-171",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-191",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-206",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-215",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-303",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-332",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-340",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-362",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-366",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-369",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "CHS-410",
+      "unitType": "chassis",
+      "notes": "",
+      "needsReview": false
+    },
+    {
+      "serial": "",
+      "unitType": "chassis",
+      "placeholderLabel": "No S/N",
+      "notes": "CHS sheet note: No S/N. Identify the unit and enter its real serial number.",
+      "needsReview": true
+    },
+    {
+      "serial": "",
+      "unitType": "chassis",
+      "placeholderLabel": "Blank Box 3DP",
+      "notes": "CHS sheet note: Blank Box 3DP. Kept as an unnumbered note; verify what this represents.",
+      "needsReview": true
+    },
+    {
+      "serial": "",
+      "unitType": "chassis",
+      "placeholderLabel": "Missing Box",
+      "notes": "CHS sheet note: Missing Box. Kept as a separate unnumbered note; assign it to the correct unit after verification.",
+      "needsReview": true
+    }
+  ]
+}

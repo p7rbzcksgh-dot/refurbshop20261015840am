@@ -1,0 +1,2 @@
+TCG Refurb Shop 2.5.0
+Upload the ZIP contents at repository root. Keep the live data.json, persistent DATA_DIR and auth settings. Restart and refresh. No install/build step is required; start with node server.js. The four existing seeded open scanner orders are corrected in place once. Read START_HERE.md.
